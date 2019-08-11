@@ -7,3 +7,4 @@ def toadstool
   puts status
 end
 
+phrase= "It's-a me, Mario!"
